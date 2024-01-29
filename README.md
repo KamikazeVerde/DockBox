@@ -5,7 +5,7 @@
 ## How to run?
 - Open a terminal in the same folder as the executable and type '''sudo ./dockbox'''
 ## How does it work?
-- It sends terminal commands for pulling Docker Images!
+- It sends terminal commands to pulling Docker Images!
 ---------------------------------------------
 # Troubleshooting
 ## No Permissions
